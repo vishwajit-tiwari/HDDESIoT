@@ -58,18 +58,36 @@ ___
 ![image](https://www.linkpicture.com/q/vaccumecleaner.png)
 
 ---
-___
+
 
 ## Course Objectives :
-> By the end of this course, you will
+> **By the end of this course, you will**
     
-* *Understand and familiarize youself with the **Design Concept of Elctronic Hardware.***
+* *Understand and familiarize youself with the **Design Concept of Elctronic Hardware :***
     * *Elctronic Devices and their Practical Use*
     * *Survey of devices and their selection, Applications*
     * *How to put electronic devices togather to build Microcontroller baesd Embedded System.*
 
-* ***Design** the **Hardware** for a **Microcontroller** baesd **Embedded System***
+* ***Design** the **Hardware** for a **Microcontroller** baesd **Embedded System :***
     * *Integration of Input devices like Sensors and User Devices*
     * *Output Devices like Motor, Relays, and Displays*
     * *Power Supply Design and  Batteries*
     * *Microcontroller Borads with various comm peripherals*
+
+* **Use a Design Software :**
+    * *Develop your own project with Schematics*
+    * *Develop the board layout, route and genrate the manufacturing slides*
+
+* Have walk through of **PCB manufacturing process :**
+    * *Manufacturing Processes*
+    * *Assembly Techniques*
+___
+---
+
+### Different Part of Embedded System :
+
+![image](https://www.linkpicture.com/q/herarchyEmbeddedSystem.png)
+
+### End Product or Final Product :
+
+![image](https://www.linkpicture.com/q/EndProduct.png)
