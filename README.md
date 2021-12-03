@@ -91,3 +91,21 @@ ___
 ### End Product or Final Product :
 
 ![image](https://www.linkpicture.com/q/EndProduct.png)
+
+## Software Development Life Cycle (SDLC)
+
+___
+
+### Software Development :
+
+> **Software life cycle processes that comprise the activities of**
+* *Requirements analysis*
+* *Design*
+* *Coding*
+* *Testing*
+* *Installation & Acceptance*
+* *User Support*
+
+![image](https://static.javatpoint.com/tutorial/software-engineering/images/software-engineering-software-development-life-cycle.png)
+
+
