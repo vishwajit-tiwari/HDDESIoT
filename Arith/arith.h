@@ -1,2 +1,5 @@
-int add(int a, int b);
-int sub(int a, int b);
+//Function Prototype
+int add(int, int);
+int sub(int, int);
+int mul(int, int);
+int div(int, int);
