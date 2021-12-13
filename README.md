@@ -47,7 +47,7 @@ ___
 * Indoor Application
 * Out door Application
 
-**6. Electronic Glue :** *This is a series of components that you putup arround all these blocks & build them in such a way that there is a form of Communication between each of them so that system works togather as an entire Embedded System.*
+**7. Electronic Glue :** *This is a series of components that you putup arround all these blocks & build them in such a way that there is a form of Communication between each of them so that system works togather as an entire Embedded System.*
 
 > **Embedded Devies :** *Some of Popularly avilable devies*
 
@@ -108,4 +108,100 @@ ___
 
 ![image](https://static.javatpoint.com/tutorial/software-engineering/images/software-engineering-software-development-life-cycle.png)
 
+#### **1. Requirment Analysis:** 
+*Understanding the total project from end to end is called analysis.*
+
+* Understand the requiremnt
+* Analyse them
+* Be prepared to know what is aspected to be delivered.
+
+#### **2. Design/GUI:**
+* Design talks about architecture.
+* Design talks about deviding the toatal set of requirment into subsystems/modules.
+* It talks about how screen appeares.
+* It talks about what kind of fields are required on screen.
+
+#### **3. Coding:**
+*In this phase, developers start build the entire system by writing code using the chosen programming language.*
+
+*In the coding phase, tasks are divided into units or modules and assigned to the various developers.*
+
+#### **4. Testing:**
+*Tesing phase is where you focus on investigation and discovery.*
+
+*During the testing phase, developers find out whether their code and programming work according to customer requirements.*
+
+#### **5. Installation and Acceptance:**
+*Acceptance testing, a testing technique performed to determine whether or not the software system has met the requirement specifications.*
+
+*The main purpose of this test is to evaluate the system's compliance with the business requirements and verify if it is has met the required criteria for delivery to end users.*
+
+> There are various forms of acceptance testing:
+
+* User acceptance Testing
+* Business acceptance Testing
+* Alpha Testing
+* Beta Testing*
+
+![image](https://www.tutorialspoint.com/software_testing_dictionary/images/acceptance_testing.jpg)
+
+#### **Acceptance Criteria:**
+
+*Acceptance criteria are defined on the basis of the following attributes*
+
+* Functional Correctness and Completeness
+* Data Integrity
+* Data Conversion
+* Usability
+* Performance
+* Timeliness
+* Confidentiality and Availability
+* Installability and Upgradability
+* Scalability
+* Documentation
+
+#### **6. User Support:**
+*The Support stage of the SDLC deals with the on-going support and maintenance of the business solution.*
+
+___
+
+### SDLC Models : 
+* Waterfall Model
+* Spiral Model
+* Prototype Model
+* Iterative Model
+* Rapid Application Development Model
+
+**1. Waterfall Model :**
+* *Also known as **classic life cycle model,** **linear sequential model***
+* *This model suggest a systematic and sequential approach to software development that begins at requirements analysis and progress through all life cycle phase sequentially.* 
+
+![image](https://www.linkpicture.com/q/Selection_006.png)
+
+***Some important Points:***
+- *Development activities carried out sequentially*
+- *Review and approval of each phase outputs*
+- *Model does not permit going back and forth*
+- *If any defect found, go back to the originating phase and start traversing sequentially all over again*
+
+![image](https://www.linkpicture.com/q/Selection_007.png)
+
+***Suitable for projects where-***
+* *Requirements are clearly defined*
+* *Small and medium term duration*
+* *Stable technology*
+* *Familiarity with the domain and development environments*
+
+![image](https://www.linkpicture.com/q/Selection_008.png)
+
+***Advantages:***
+* *Project under control*
+* *Pre-defined outputs at every phase*
+* *Tracking changes is easy*  
+* *Early identification of slippages, if any*
+
+***Disadvantes:***
+* *In real life, customer requirements do change*
+* *Customer appraisal of completed work - not feasible always*
+* *Phases can not run concurrently*
 
