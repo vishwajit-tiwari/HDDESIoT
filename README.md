@@ -172,7 +172,7 @@ ___
 * Iterative Model
 * Rapid Application Development Model
 
-**1. Waterfall Model :**
+#### **1. Waterfall Model :**
 * *Also known as **classic life cycle model,** **linear sequential model***
 * *This model suggest a systematic and sequential approach to software development that begins at requirements analysis and progress through all life cycle phase sequentially.* 
 
@@ -204,4 +204,30 @@ ___
 * *In real life, customer requirements do change*
 * *Customer appraisal of completed work - not feasible always*
 * *Phases can not run concurrently*
+
+___
+
+#### **2. Spiral Model:**
+* *In spiral model, software is developed in a series of **Incremental** releases*
+* *The spiral model is devided into number of framework activities or task regions*
+
+![image](https://www.linkpicture.com/q/Selection_009.png)
+
+***Some Important Points:***
+* *Suitable for large projects with multi-location implementation*
+* *Each spiral consist of deliverable product*
+* *Feedback of each spiral is incorporated in the next spiral*
+* *Customer can statrt using the system after every spiral*
+* *Each spiral consists of a waterfall model*
+
+***Advantages:***
+* *Useful for large projects*
+* *Customer requirements evolve over a period*
+* *Early availabilty of usable system*
+
+***Disadvanges:***
+* *Total blueprint should be avialable in the beginning*
+* *Basic concept of underlying layer can NOT be changed*
+
+
 
